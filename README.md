@@ -9,6 +9,6 @@ This is a simple reference implementation and is not finished.
 
 Libraries used:
 
-`<a href="http://www.bloomberglabs.com/api/libraries/">Bloomberg API Java</a>`: http://www.bloomberglabs.com/api/libraries/
+`[Bloomberg API Java](http://www.bloomberglabs.com/api/libraries/)`
 `JSON Simple`: https://code.google.com/p/json-simple/
 `Eclipse SWT`: http://www.eclipse.org/swt/
